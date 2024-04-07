@@ -1,2 +1,3 @@
 # MS-telemetry
-Microsoft Telemetry Hosts
+
+Microsoft Telemetry Hosts to be used on blacklists
